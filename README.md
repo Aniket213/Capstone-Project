@@ -17,6 +17,13 @@ A blockchain-powered social network empowering users with NFT profile pictures a
 *  **Decentralized Storage:** IPFS
 *  **Headless CMS:** Sanity.io 
 
+## Project Supervisor
+* Dr. Preet Kamal
+
+## Project Members
+* Aniket Mittal
+* Bipandeep Singh Pannu
+
 ## Getting Started
 
 ### Prerequisites
