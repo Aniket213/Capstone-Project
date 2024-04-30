@@ -22,6 +22,7 @@ A blockchain-powered social network empowering users with NFT profile pictures a
 
 ## Project Members
 * Aniket Mittal
+* Saikat Das
 * Bipandeep Singh Pannu
 
 ## Getting Started
